@@ -1,0 +1,164 @@
+.homepage{
+    background-color:#f8c727  ;
+    padding-top: 60px;
+    padding-bottom: 67px;
+   
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    position: relative;
+    bottom: 10px;
+    font-family: Fuzzy Bubbles, serif;
+    color: rgba(148, 59, 0, 0.842);
+    line-height: 2;
+    
+   
+}
+h2{
+    color:rgba(148, 59, 0, 0.842);
+    font-weight: normal;
+    font-size: 50px;
+}
+body{
+    text-align: center;
+    font-family: Comfortaa, sans-serif ;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: rgb(187, 19, 19);
+}
+
+.middle-container{
+    
+    
+}
+.bottom-container{
+    background-color: rgba(231, 46, 0, 0.781);
+    padding-top: 35px;
+    padding-bottom: 3px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    width: 250px;
+}
+.top-cloud{
+    position:relative;
+    left: 400px;
+    bottom: 10px;
+    width: 250px;
+
+    
+}
+.a{font-size: 2rem;
+    position: relative;
+   
+
+
+}
+
+
+.mountain{
+    width: 1200px;
+    position: relative;
+    top: 70px ;
+}
+h3{
+    color:#F58634;
+    font-size: 20px;
+    
+}
+
+.footer-link{
+    color:hsla(46, 100%, 67%, 0.932) ;
+    text-decoration: none;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+   
+}
+.coder{
+    width: 50%;
+    float: left;
+    padding-right: 60px;
+
+}
+.designer{
+    width: 35%;
+    float: right;
+    padding-left: 30px;
+}
+.foodie{
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    position: relative;
+    top: 50px;
+}
+
+.profile-img{
+    width: 20%;
+    padding: 50px ;
+}
+    hr{
+    border-style: dotted none none;
+    border-color:#D61C4E;
+    border-width: 8px;
+    height: 0px;
+    width:10%;
+} 
+p{
+    font-size: 18px;
+}
+.description{
+    padding-bottom: 70px;
+    padding-top: 30px;
+    text-align: center;
+    margin: auto ;
+}
+.btn {
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8c00;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #db3434;
+    text-decoration: none;
+  }
+.profile{
+    background-color: #FEF9A7;
+    margin: -15px;
+    margin-bottom: -18px;
+}  
+.skills{
+    background-color: #FEF9A7;
+    padding-top: 63px;
+    margin: -8.5px;
+    padding-bottom: 23px;
+    margin-bottom: -18.5px;
+  
+}
+.contact-me{background-color: #FEF9A7;
+    padding-bottom: 91px;}
+.touch{
+    margin-top: -6px;
+    padding: 30px;
+    padding-top: 100px;
+  
+}
+.last{
+padding: 40px;
+padding-bottom: 60px;
+}
