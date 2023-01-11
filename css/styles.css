@@ -1,7 +1,7 @@
 .homepage{
     background-color:#f8c727  ;
     padding-top: 60px;
-    padding-bottom: 67px;
+    padding-bottom: 71px;
    
 }
 h1{
@@ -63,7 +63,7 @@ body{
 .mountain{
     width: 1200px;
     position: relative;
-    top: 70px ;
+    top: 60px ;
 }
 h3{
     color:#F58634;
@@ -104,7 +104,8 @@ h3{
 
 .profile-img{
     width: 20%;
-    padding: 50px ;
+    padding: 30px ;
+    padding-top: 80px;
 }
     hr{
     border-style: dotted none none;
@@ -117,8 +118,8 @@ p{
     font-size: 18px;
 }
 .description{
-    padding-bottom: 70px;
-    padding-top: 30px;
+    padding-bottom: 110px;
+    padding-top: 35px;
     text-align: center;
     margin: auto ;
 }
@@ -161,4 +162,7 @@ p{
 .last{
 padding: 40px;
 padding-bottom: 60px;
+}
+.linkedin{
+    width: 20px;
 }
