@@ -33,6 +33,7 @@ body{
 .middle-container{
     
     
+    
 }
 .bottom-container{
     background-color: rgba(231, 46, 0, 0.781);
@@ -86,6 +87,8 @@ h3{
     width: 50%;
     float: left;
     padding-right: 60px;
+    position: relative;
+    top: -60px;
 
 }
 .designer{
@@ -99,7 +102,7 @@ h3{
     margin-right: 80px;
     margin-bottom: 20px;
     position: relative;
-    top: 50px;
+    top: -30px;
 }
 
 .profile-img{
@@ -112,7 +115,7 @@ h3{
     border-color:#D61C4E;
     border-width: 8px;
     height: 0px;
-    width:10%;
+    width:10vw;
 } 
 p{
     font-size: 18px;
@@ -145,10 +148,10 @@ p{
 }  
 .skills{
     background-color: #FEF9A7;
-    padding-top: 63px;
-    margin: -8.5px;
-    padding-bottom: 23px;
-    margin-bottom: -18.5px;
+    padding-top: 48px;
+    margin: -6px auto -18.5px auto;
+    padding-bottom: 40px;
+    
   
 }
 .contact-me{background-color: #FEF9A7;
@@ -156,7 +159,7 @@ p{
 .touch{
     margin-top: -6px;
     padding: 30px;
-    padding-top: 100px;
+    padding-top: 90px;
   
 }
 .last{
@@ -165,4 +168,7 @@ padding-bottom: 60px;
 }
 .linkedin{
     width: 20px;
+}
+.topdot{
+
 }
